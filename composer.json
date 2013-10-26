@@ -1,10 +1,10 @@
 {
-    "name": "heureka/heureka-overeno-php-api",
+    "name": "miloshavlicek/heureka-overeno-php-api",
     "type": "library",
     "license": "BSD-3-Clause",
     "description": "Heureka overeno service API for PHP",
     "keywords": ["heureka", "overeno"],
-    "homepage": "https://github.com/heureka/heureka-overeno-php-api",
+    "homepage": "https://github.com/miloshavlicek/heureka-overeno-php-api",
     "authors": [
         {
             "name": "Heureka.cz",
